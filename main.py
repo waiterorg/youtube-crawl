@@ -1,0 +1,3 @@
+from utils.youtube_utils import get_channels_info_by_search_as_csv
+
+get_channels_info_by_search_as_csv()
